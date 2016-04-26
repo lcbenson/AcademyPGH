@@ -1,0 +1,27 @@
+                   
+                    strShipLoc[0, 0] = "*";
+                    strShipLoc[0, 1] = "*";
+
+                  
+                    strShipLoc[4, 0] = "*";
+                    strShipLoc[5, 0] = "*";
+                    strShipLoc[6, 0] = "*";
+
+                
+                    strShipLoc[7, 1] = "*";
+                    strShipLoc[7, 2] = "*";
+                    strShipLoc[7, 3] = "*";
+
+                  
+                    strShipLoc[2, 4] = "*";
+                    strShipLoc[3, 4] = "*";
+                    strShipLoc[4, 4] = "*";
+                    strShipLoc[5, 4] = "*";
+
+                    
+                    strShipLoc[3, 6] = "*";
+                    strShipLoc[4, 6] = "*";
+                    strShipLoc[5, 6] = "*";
+                    strShipLoc[6, 6] = "*";
+                    strShipLoc[7, 6] = "*";
+             
